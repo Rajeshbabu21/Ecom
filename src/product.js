@@ -50,12 +50,12 @@ const PRODUCTS = [
     price: 120.0,
     productImage: product7,
   },
-  {
-    id: 8,
-    productName: "DON'T TRIP UNSTRUCTURED HAT",
-    price: 40.0,
-    productImage: product8,
-  },
+  // {
+  //   id: 8,
+  //   productName: "DON'T TRIP UNSTRUCTURED HAT",
+  //   price: 40.0,
+  //   productImage: product8,
+  // },
 ]
 
 export default PRODUCTS
